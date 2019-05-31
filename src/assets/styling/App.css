@@ -1,0 +1,197 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.header-container{
+}
+.homeBtn{
+
+}
+
+.hover:hover{
+  color: #ffffff;
+  background-color: gray;
+}
+.tw{
+  color: white
+}
+
+.bgColorheader {
+  background-color: #52bbae;
+}
+
+.margin-bottom {
+  margin-bottom: 50px;
+  color: beige;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.font-black {
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.btnListenNow {
+  background-color: darkolivegreen;
+}
+
+.header-css{
+  color: #ffffff;
+  font-size: 100;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 20;
+  padding-bottom: 20;
+  background-color: #000000;
+}
+
+.fontFam {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.iconStyle {
+  height: 50px;
+  width: 50px;
+}
+
+.homeImgStyle{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.bgBlack{
+  background-color: #000000;
+}
+.p{
+  padding: 10px;
+}
+
+.border-radius {
+  border-radius: 20px;
+}
+
+.text-align-center{
+  text-align: center;
+  align-content: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.imgBlogStyle {
+  padding-top: 50px;
+  height: 30rem;
+  width: 30rem;
+}
+.blogTxt {
+  color: #000000;
+  font-size: large;
+  padding-top: 13rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+.imgTxtCon {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.titleTxt{
+  padding: 3rem;
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.albumImgStyle {
+  height: 20rem;
+  width: 20rem;
+}
+
+.playlistConH {
+  background-color: #4a4a4a;
+  }
+
+.playlistCon {
+  background-color: #1f1f1f;
+}
+
+.font-white {
+  color: white;
+  padding-top: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  justify-self: start;
+}
+
+.font-size-50 {
+  font-size: 70px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.plClr {
+  background-color: #1f1f1f;
+  height: 90px;
+  padding-top: 20px;
+}
+.plIcn {
+  padding-left: 10px;
+  padding-top: 10px;
+  height: 40px;
+  width: 35px;
+}
+
+.plIcnH {
+  padding-left: 10px;
+  padding-top: 10px;
+  height: 40px;
+  width: 40px;
+}
+
+.border-bottom {
+  border-bottom-width: 1px;
+}
+
+.LoginContainer {
+  background-color: #4a4a4a;
+}
+
+.font-color-blue {
+  color: #61dafb;
+}
+
+.hover:hover {
+  color: #000000;
+  text-decoration: wavy;
+}
+
+.accountDetails {
+  display: grid;
+  justify-content: center;
+}
