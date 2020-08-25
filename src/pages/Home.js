@@ -13,7 +13,6 @@ function Home() {
   return (
     <div className="App">
       <Header/>
-      
       <div className='homeBtn bgColorheader'>
         <p className='titleTxt font-black'>
           Linkin Park Music Player
@@ -29,9 +28,9 @@ function Home() {
         The Linkinpark
       </p>
       <MDBContainer className='p-0'>
-        <MDBRow className='playlistConH d-flex justify-content-center p-0 m-0'>
+        <MDBRow className='p-0 m-0'>
           <img src={albumImg} className='albumImgStyle'/>
-          <MDBCol className='p-0 m-0'>
+          <MDBCol className='playlistConH p-0 m-0'>
             <p className='font-white fontFam'>
               Playlist
             </p>
@@ -46,7 +45,6 @@ function Home() {
             </p>
           </MDBCol>
         </MDBRow>
-
           <MDBRow className='d-flex justify-content-start plClr m-0'>
             <a onClick={()=>{alert('Under Development')}} >
               <img src={playBtn} className='plIcnH'/>
@@ -135,7 +133,7 @@ function Home() {
               </MDBRow>
             </a>
           </MDBCol>
-          <MDBCol className='p-0 playlistConH border-bottom mb-5'>
+          <MDBCol className='p-0 playlistConH border-bottom'>
             <a onClick={()=>{alert('Under Development')}}>
               <MDBRow className='d-flex justify-content-between pr-3 pl-3'>
                 <p className='font-white pl-3'>Papercut</p>

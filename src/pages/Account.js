@@ -1,8 +1,6 @@
 import React from 'react'
 import Header from '../components/Header'
 import '../assets/styling/App.css';
-import {MDBContainer, MDBCol, MDBBtn, MDBRow} from 'mdbreact'
-
 
 function Account(){
     return(
@@ -13,15 +11,12 @@ function Account(){
         <div>
             <p className='titleTxt fontFam'>ACCOUNT</p>
         </div>
-            
-
         <div>
             <input placeholder='Name' className=''></input>
         </div>
         <div>
             <label>Name:</label>
         </div>
-
         <div>
             <input placeholder='Password' className=''></input>
         </div>

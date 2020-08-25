@@ -10670,3 +10670,8 @@ yarn@^1.22.4:
   version "1.22.4"
   resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.4.tgz#01c1197ca5b27f21edc8bc472cd4c8ce0e5a470e"
   integrity sha512-oYM7hi/lIWm9bCoDMEWgffW8aiNZXCWeZ1/tGy0DWrN6vmzjCXIKu2Y21o8DYVBUtiktwKcNoxyGl/2iKLUNGA==
+
+zsh@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/zsh/-/zsh-0.0.1.tgz#35c2796d94a1e160c252e6031aa510d3be4a0640"
+  integrity sha512-JFVRW6WWrsXoGJfnEvY0f/g2MKtTRZPOY+8VwIMvm/ThpH5YaWySc49Mx8Q0VK4SA4aIEAPXqmrFh46xjdqwJA==
